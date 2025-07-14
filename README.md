@@ -19,9 +19,9 @@ The easiest way to set up this project locally is using Docker.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YanivBohbot/microserviceProject .git
-cd your-repo-name
-```
+git clone https://github.com/YanivBohbot/microserviceProject.git
+cd microserviceProject
+
 
 
 ### 2. Install Dependencies
@@ -34,7 +34,7 @@ npm run install
 Ensure Docker is running, then execute:
 ```bash
 docker-compose up --build
-```
+
 
 This will:
 
